@@ -1,7 +1,8 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Emaricarprogrammer" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">Desenvolvedor Full Stack com expertise em soluções escaláveis e de alta performance. <br><br> Com experiência em desenvolvimento backend utilizando Python, Flask e arquitetura de microsserviços, aliado a conhecimentos sólidos em frontend, busco criar soluções completas que atendam às necessidades de negócio. Atualmente focado em desenvolvimento web com ênfase em arquiteturas escaláveis e boas práticas de engenharia de software.</p>&nbsp;
+<p align="center"><strong>Desenvolvedor Backend | Especialista em APIs RESTful</strong><br><br> 
+Desenvolvedor com expertise em construção de APIs escaláveis utilizando TypeScript, Node.js e Python. Experiência em arquitetura de microsserviços, integrações de sistemas e otimização de performance. Domínio em bancos de dados relacionais e não-relacionais, com foco em entregar soluções robustas e de alta disponibilidade.</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Emaricarprogrammer&theme=radical&mode=weekly" />
@@ -11,46 +12,37 @@
 &nbsp;
 &nbsp;
 
-## Habilidades Técnicas
+## Stack Principal
 
-#### Backend:
+#### Backend & APIs:
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)&nbsp;
-
-#### Frontend:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 #### Bancos de Dados:
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 
-#### DevOps & Cloud:
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-
-#### Ferramentas:
+#### Controle de Versão:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 
-#### Em Aprendizado:
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)&nbsp;
-![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
+#### Arquitetura & DevOps:
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-## Experiência e Foco
+## Especializações
 
-- Desenvolvimento de APIs RESTful e microsserviços
-- Arquitetura de sistemas escaláveis
-- Integração de sistemas e mensageria (RabbitMQ)
-- Otimização de performance e segurança
-- Conhecimentos em infraestrutura e configuração de servidores
-- Desenvolvimento full stack com foco em soluções completas
+- Desenvolvimento de APIs RESTful robustas e documentadas
+- Implementação de microsserviços com TypeScript/Node.js e Python
+- Integração entre sistemas complexos
+- Modelagem e otimização de bancos de dados SQL e NoSQL
+- Versionamento de código e workflows colaborativos com Git/GitHub
+- Configuração de pipelines CI/CD
 
 &nbsp;
 &nbsp;
