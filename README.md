@@ -1,8 +1,8 @@
 <img align="center" style="margin-bottom:100px" width=100% src="./emaricar_logo.png" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"><strong>Desenvolvedor Backend | Especialista em APIs RESTful</strong><br><br> 
-Desenvolvedor com expertise em construção de APIs escaláveis utilizando TypeScript, Node.js e Python. Experiência em arquitetura de microsserviços, integrações de sistemas e otimização de performance. Domínio em bancos de dados relacionais e não-relacionais, com foco em entregar soluções robustas e de alta disponibilidade.</p>&nbsp;
+<p align="center"><strong>Desenvolvedor Backend</strong><br><br> 
+Sou desenvolvedor backend apixonado por tecnologia e desenvolvimento de soluções escalaveis!</p>&nbsp;
 
 <div align="center" style="margin-bottom:100px">
 <img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Emaricarprogrammer&theme=radical&mode=weekly" />
@@ -17,9 +17,8 @@ Desenvolvedor com expertise em construção de APIs escaláveis utilizando TypeS
 #### Backend & APIs:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
+«
 
 #### Bancos de Dados:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
@@ -35,17 +34,6 @@ Desenvolvedor com expertise em construção de APIs escaláveis utilizando TypeS
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-## Especializações
-
-- Desenvolvimento de APIs RESTful robustas e documentadas
-- Implementação de microsserviços com TypeScript/Node.js e Python
-- Integração entre sistemas complexos
-- Modelagem e otimização de bancos de dados SQL e NoSQL
-- Versionamento de código e workflows colaborativos com Git/GitHub
-- Configuração de pipelines CI/CD
-
-&nbsp;
-&nbsp;
 
 ## Contatos:
 
