@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Emaricarprogrammer" />
+<img align="center" style="margin-bottom:100px" width=100% src="./emaricar_logo.png" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"><strong>Desenvolvedor Backend | Especialista em APIs RESTful</strong><br><br> 
