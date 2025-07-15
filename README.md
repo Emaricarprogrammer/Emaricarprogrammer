@@ -4,21 +4,12 @@
 <p align="center"><strong>Desenvolvedor Backend</strong><br><br> 
 Sou desenvolvedor backend apixonado por tecnologia e desenvolvimento de soluções escalaveis!</p>&nbsp;
 
-<div align="center" style="margin-bottom:100px">
-<img width=55% align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Emaricarprogrammer&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-Emaricarprogrammer.vercel.app/api/top-langs/?username=Emaricarprogrammer&show_icons=true&theme=radical&layout=compact" />
-</div>
-
-&nbsp;
-&nbsp;
-
 ## Stack Principal
 
-#### Backend & APIs:
+#### Backend:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-«
 
 #### Bancos de Dados:
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
