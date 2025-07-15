@@ -1,10 +1,10 @@
 <img align="center" style="margin-bottom:100px" width=100% src="./emaricar_logo.png" />
 &nbsp;&nbsp;&nbsp;
 
-<h1 align="center">Hello, I'm Fernanda Kipper 👋</h1>
+<h1 align="center">Hello, I'm Emanuel Antonio! 👋</h1>
 
 <p align="center">
-  <em>Software Engineer • Tech Content Creator • Microsoft MVP</em>
+  <em>Backend Software Developer • Tech Apaxonate • </em>
 </p>
 
 ---
