@@ -1,6 +1,3 @@
-<img align="center" style="margin-bottom:100px" width=100% src="./emaricar_logo.png" />
-&nbsp;&nbsp;&nbsp;
-
 <h1 align="center">Hello, I'm Emanuel Antonio! 👋</h1>
 
 <p align="center">
@@ -8,11 +5,9 @@
 </p>
 
 ---
-
-<p align="center"><strong>Desenvolvedor Backend</strong><br><br> 
-Sou desenvolvedor backend apixonado por tecnologia e desenvolvimento de soluções escalaveis!</p>&nbsp;
-
-## Stack Principal
+<img align="center" style="margin-bottom:100px" width=100% src="./emaricar_logo.png" />
+&nbsp;&nbsp;&nbsp;
+## Stacks
 
 #### Backend:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
