@@ -5,7 +5,7 @@
 </p>
 
 ---
-<img align="center" style="margin-bottom:100px" width=100% src="./emaricar_logo.png" />
+<img align="center" style="margin-bottom:100px" width=50% src="./emaricar_logo.png" />
 &nbsp;&nbsp;&nbsp;
 ## Stacks
 
