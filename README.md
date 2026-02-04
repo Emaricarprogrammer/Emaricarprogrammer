@@ -49,8 +49,8 @@
 
 - 🧩 Backend-focused developer passionate about clean architecture and performance  
 - ⚙️ Strong experience with **Node.js, NestJS, Express, Python & SQL/NoSQL**  
-- 🔐 Skilled in **JWT, 2FA, API security, validation & best practices**  
-- 🌱 Currently diving deeper into **Cloud, DevOps & System Design**  
+- 🔐 Skilled in **API security & best practices**  
+- 🌱 Currently diving deeper into **System Design**  
 - 🎯 Mission-driven: building software that solves real-world problems  
 
 ---
