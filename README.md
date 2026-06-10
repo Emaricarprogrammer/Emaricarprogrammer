@@ -1,107 +1,181 @@
-<h1 align="center">Hello, I'm Emanuel António! 👋</h1>
+# Hi, I'm Emanuel António 👋
 
-<p align="center">
-  <em>Backend Software Developer • Tech Enthusiast • Building scalable & secure systems</em>
-</p>
+**Backend Software Engineer** focused on building scalable APIs, intelligent systems and secure software solutions.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+Currently developing platforms in tourism and higher education, combining backend engineering, artificial intelligence and software architecture.
 
 ---
 
-## 🚀 Stacks & Technologies
+## 🚀 About Me
 
-### 🧠 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>&nbsp;
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>&nbsp;
-</p>
-
-### ⚙️ Backend Frameworks
-<p align="center">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/Slim_PHP-74A045?style=for-the-badge&logo=php&logoColor=white"/>&nbsp;
-</p>
-
-### 🗄️ Databases
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;
-</p>
-
-### 🧰 DevOps & CI/CD
-<p align="center">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>&nbsp;
-  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=githubactions&logoColor=white"/>&nbsp;
-</p>
+* Backend Developer passionate about software architecture and system design
+* Building scalable applications with **Node.js**, **TypeScript**, **NestJS**, **Python** and **PostgreSQL**
+* Creator of **AMPI**, an intelligent monograph management platform powered by Artificial Intelligence
+* Developing a **Tourism Management Platform** connecting tourists, guides and tourism operators
+* Experience with Authentication, Authorization, JWT, 2FA and API Security
+* Strong interest in Distributed Systems, Artificial Intelligence and Cloud Computing
+* Focused on developing software that solves real-world problems
+* Always learning and exploring new technologies
 
 ---
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png"
-     width="380px" align="right" alt="Computer illustration">
+## 🛠 Tech Stack
 
-## 💼 About Me
+### Backend
 
-- 🧩 Backend-focused developer passionate about clean architecture and performance  
-- ⚙️ Strong experience with **Node.js, NestJS, Express, Python & SQL/NoSQL**  
-- 🔐 Skilled in **API security & best practices**  
-- 🌱 Currently diving deeper into **System Design**  
-- 🎯 Mission-driven: building software that solves real-world problems  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square\&logo=php\&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square\&logo=redis\&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma\&logoColor=white)
+
+### Architecture & Distributed Systems
+
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square\&logo=apachekafka\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-000000?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0A0A0A?style=flat-square)
+
+### Artificial Intelligence
+
+![Claude API](https://img.shields.io/badge/Claude_API-D97706?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-6B46C1?style=flat-square)
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-0F766E?style=flat-square)
+![Embeddings](https://img.shields.io/badge/Embeddings-1E293B?style=flat-square)
+
+### DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square\&logo=githubactions\&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square\&logo=nginx\&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat-square\&logo=cloudflare\&logoColor=white)
+
+---
+
+## 💼 Featured Projects
+
+### 🌍 Tourism Management Platform
+
+Scalable tourism management platform designed to connect tourists, guides, tourism operators and partner organizations through a centralized digital ecosystem.
+
+**Highlights**
+
+* Multi-role authentication and authorization
+* Tourist, Guide, Admin and Supervisor management
+* Tour and booking management
+* Reviews and ratings system
+* Notification and activity tracking
+* PostgreSQL + Prisma ORM
+* Secure and scalable architecture
+
+**Tech Stack**
+
+Node.js • TypeScript • NestJS • PostgreSQL • Prisma ORM • JWT • Docker
+
+---
+
+### 🎓 AMPI — Intelligent Monograph Management Platform
+
+Institutional platform designed for universities to manage, analyze and provide access to academic monographs through artificial intelligence and digital library technologies.
+
+**Highlights**
+
+* Digital academic library for monographs
+* Institutional authentication and role-based access control
+* AI-powered plagiarism detection using semantic similarity
+* Validation of APA, ABNT and institutional standards
+* Academic writing assistant powered by AI
+* Retrieval-Augmented Generation (RAG)
+* Semantic search using embeddings
+* Secure document storage with Cloudflare R2
+* Multi-domain architecture for students, coordinators and administrators
+* Dedicated AI microservice built with FastAPI
+* Monograph management and academic workflow automation
+
+**Tech Stack**
+
+NestJS • TypeScript • FastAPI • Python • PostgreSQL • Prisma ORM • Cloudflare R2 • JWT • Claude API • Sentence Transformers • Docker
+
+---
+
+## 🎯 Current Focus
+
+* Software Architecture
+* System Design
+* Distributed Systems
+* Artificial Intelligence
+* Cloud Infrastructure
+* Cybersecurity
+* High Performance APIs
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em"
+  <img height="165em"
        src="https://github-readme-stats.vercel.app/api?username=Emaricar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emaricar&layout=compact&langs_count=7&theme=radical"/>
+
+<img height="165em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emaricar&layout=compact&langs_count=8&theme=radical"/>
+
 </p>
 
 ---
 
-## 🚧 Featured Projects
+## 🌱 Currently Learning
 
-### 🔹 Smart Pharmacy Stock Optimization (PAP Project)
-**Tech:** Node.js • TypeScript • Prisma • PostgreSQL • Geolocation APIs  
-- Intelligent system to optimize medication acquisition  
-- Role-based access (Admin, Pharmacy, Deposit)  
-- Secure authentication (JWT + 2FA)
-
-### 🔹 QRCode PDF Generator
-**Tech:** Node.js • PDF • QRCode  
-- Generates QR Codes and exports structured data into PDF  
-- Modular and reusable architecture  
-
-### 🔹 RESTful APIs & Auth Systems
-**Tech:** NestJS • Express • Docker • CI/CD  
-- Clean Architecture & SOLID  
-- Token-based auth, validation & logging  
-
-> 🔎 More projects available in my repositories.
+* Advanced System Design
+* Distributed Architectures
+* Event-Driven Systems
+* Artificial Intelligence Engineering
 
 ---
 
-## 📫 Where to Find Me
+## 🌐 Connect With Me
 
-<div align="center"> 
-  <a href="https://www.linkedin.com/in/EmaricarProgrammer/" target="_blank">
+<p align="center">
+  <a href="https://www.linkedin.com/in/EmaricarProgrammer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+
   <a href="mailto:emaricaroffice@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://medium.com/@EmaricarProgrammer" target="_blank">
+
+  <a href="https://medium.com/@EmaricarProgrammer">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
-</div>
+
+  <a href="https://github.com/Emaricar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="https://emanuelantoniodev.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+## 📫 Contact
+
+📧 **[emaricaroffice@gmail.com](mailto:emaricaroffice@gmail.com)**
+
+🌐 **https://emanuelantoniodev.vercel.app/**
+
+📍 Luanda, Angola
+
+---
+
+> Building scalable systems, AI-powered platforms and software that solves real-world problems.
