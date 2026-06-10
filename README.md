@@ -120,19 +120,6 @@ NestJS • TypeScript • FastAPI • Python • PostgreSQL • Prisma ORM • C
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165em"
-       src="https://github-readme-stats.vercel.app/api?username=Emaricar&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-<img height="165em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Emaricar&layout=compact&langs_count=8&theme=radical"/>
-
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 * Advanced System Design
@@ -149,7 +136,7 @@ NestJS • TypeScript • FastAPI • Python • PostgreSQL • Prisma ORM • C
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="mailto:emaricaroffice@gmail.com">
+  <a href="mailto:emanuel.antonio.office@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
@@ -157,7 +144,7 @@ NestJS • TypeScript • FastAPI • Python • PostgreSQL • Prisma ORM • C
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
   </a>
 
-  <a href="https://github.com/Emaricar">
+  <a href="https://github.com/Emanuel-Antonio-Dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
@@ -170,7 +157,7 @@ NestJS • TypeScript • FastAPI • Python • PostgreSQL • Prisma ORM • C
 
 ## 📫 Contact
 
-📧 **[emaricaroffice@gmail.com](mailto:emaricaroffice@gmail.com)**
+📧 **[emanuel.antonio.office@gmail.com](mailto:emanuel.antonio.office@gmail.com)**
 
 🌐 **https://emanuelantoniodev.vercel.app/**
 
